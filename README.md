@@ -1,4 +1,5 @@
-# ip2config & ip2nationcountries
+# ![logo](https://raw.githubusercontent.com/azerothcore/azerothcore.github.io/master/images/logo-github.png) AzerothCore
+## mod-ip2config-ip2nationcountries
 
 This module holds the SQL information to populate the `ip2config` & `ip2nationcountries` tables in your auth database.
 
