@@ -1,3 +1,7 @@
+/*
+* Data gathered from http://www.ip2nation.com/ip2nation/Download
+*/
+
 DELETE FROM `ip2nation`;
 INSERT INTO `ip2nation` (`ip`, `country`) VALUES
 (0, 'us'),

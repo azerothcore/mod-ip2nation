@@ -1,3 +1,7 @@
+/*
+* Data gathered from http://www.ip2nation.com/ip2nation/Download
+*/
+
 DELETE FROM `ip2nationCountries`;
 INSERT INTO `ip2nationCountries` (`code`, `iso_code_2`, `iso_code_3`, `iso_country`, `country`, `lat`, `lon`) VALUES
 ('01', '', '', '', 'Private', 0, 0),
