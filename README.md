@@ -11,7 +11,7 @@ There are two alternatives to import this into your auth database, either manual
 
 ### Manually
 
-You can download the SQL files and manually import them from https://github.com/UPDATE/PATH/tree/master/sql/auth
+You can download the SQL files and manually import them from https://github.com/Kitzunu/mod-ip2nation-ip2nationcontries/releases/tag/v1.0
 
 ### DB assambler
 
