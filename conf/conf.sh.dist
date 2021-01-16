@@ -4,6 +4,6 @@
 # CUSTOM
 #
 
-DB_WORLD_CUSTOM_PATHS+=(
+DB_AUTH_CUSTOM_PATHS+=(
     "$MOD_IP2NATION_ROOT/sql/auth/"
 )
