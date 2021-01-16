@@ -5,6 +5,8 @@ This module holds the SQL information to populate the `ip2config` & `ip2nationco
 
 The data is gathered from http://www.ip2nation.com/ip2nation
 
+AzerothCore or the author of the module does not take any credit for the data that is provided within the SQL files. All the credit for this data goes to http://www.ip2nation.com/
+
 ## Import into database
 
 There are two alternatives to import this into your auth database, either manually or using the DB assambler.
